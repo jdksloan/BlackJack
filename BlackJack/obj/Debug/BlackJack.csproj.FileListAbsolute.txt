@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BlackJack\BlackJack\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\BlackJack\BlackJack\bin\Debug\Newtonsoft.Json.xml
